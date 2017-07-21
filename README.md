@@ -1,8 +1,8 @@
 # WebApiIn6av
 Web Services de la agenda.
 
-## Instalacion de dependecias
-Para instalar las dependencias utilizar los siguientes comandos:
+## Instalacion
+Hay te acordas que para que te funcione tenes que instalar esto :V despues no vayas a andar diciendo que note compila xd :
 1. `cd WebApiIn6av`
 2. `npm install`
 
